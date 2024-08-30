@@ -36,7 +36,7 @@
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,aws,idea,eclipse,maven,mysql,postgres,dynamodb,firebase,sqlite&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring, idea,,maven,mysql&perline=6" />
   </a>
 
   <h2>:hammer: Devops</h2>
