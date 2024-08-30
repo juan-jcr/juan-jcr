@@ -9,56 +9,21 @@
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-
+<p align="left">
   🎓 ESTUDIANTE DE ANALISIS Y DESARROLLO DE SOFTWARE
 
   📝 Actualmente estoy en formación en Análisis y Desarrollo de Software en el SENA.
+  
 
   💻 Tengo experiencia trabajando con JAVA | SPRING FRAMEWORK | JAVASCRIPT | REACT.
   
+  
   💪🏼 Frase favorita: "Los grandes desarrolladores nunca dejan de aprender".
 
+  
+  📫 Contacto: **castaneda2850@gmail.com**
 
-<br>
-
-
-////////////////////////////
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
-
-<!-- <br>
-<br>
-<div align="center">
-    <a href="https://youtube.com/@unprogramadornace" target="_blank"><img align="center" src="./Assets/Circle.png" alt="@unprogramadornace" width="250px"/></a>
-</div>
-<br>
-<br> -->
-<h1 align="center">Hello 👋 I am Santiago Perez</strong> ✨ </h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+UnProgramadorNace+Profile!;Don't+Forget++Suscribe+To+My+Youtube+Channel!;No+Olvides+Suscribirte+A+Mi+Canal+De+Youtube!" /></a>
-</p>
-
-<p align="center">
-    <a href="https://youtube.com/@unprogramadornace" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unprogramadornace" /></a>
-    <a href="https://www.linkedin.com/in/UnProgramadorNace"  target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@unprogramadornace"/></a>
-    <a href="https://www.facebook.com/people/Un-Programador-Nace/61552057605223/"  target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@unprogramadornace" /></a>
-    <a href = "mailto:unprogramadornace@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unprogramadornace" /></a>
-  </p>
-<br>
-<h2 align="center">Sobre mi 😎🤏</h2>
-<!--Intro start-->
-
-<p align="left">
-🎓 ESTUDIANTE DE INGENIERIA DE SOFTWARE
-
-📝 Desarrollador de software, proactivo y autodidacta, además de Youtuber de tecnología.
-
-💻 Tengo unos cuantos años de experiencia trabajando con JAVA | SPRING FRAMEWORK | JAVASCRIPT
-
-📫 Contacto: **unprogramadornace@gmail.com**
-
-<!--Intro end-->
-  </p>
+<p/>
 <br>
 
 <h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
@@ -85,6 +50,9 @@
   </a>
 </p>
 <br>
+
+
+
 <!-------------------------->
 <div id="proyectos">
 <br>
