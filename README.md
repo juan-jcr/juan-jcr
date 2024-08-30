@@ -31,7 +31,7 @@
 <p align="center">
   <h2>:star2: Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vscode,tailwind,react,angular,npm,netlify,vite,regex&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode, regex&perline=6" />
   </a>
 
   <h2>:zap: Back End</h2>
