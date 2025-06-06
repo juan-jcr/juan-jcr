@@ -32,7 +32,7 @@
   <h2>:star2: Front End</h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      <img src="https://skillicons.dev/icons?i=angular,js,nodejs,react,tailwind,ts" />
     </a>
   </p>
 
