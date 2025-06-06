@@ -46,7 +46,7 @@
   <h2>:wrench: Tools</h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,gitlab,postman,rider,visualstudio,vscode" />
     </a>
 </p>
 </p>
