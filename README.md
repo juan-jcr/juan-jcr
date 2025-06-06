@@ -31,17 +31,17 @@
 <p align="center">
   <h2>:star2: Front End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vscode, regex&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js, ts, angular, vscode, regex&perline=6" />
   </a>
 
   <h2>:zap: Back End</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,idea,maven,mysql&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java, cs, spring,idea,maven, mongodb, dotnet, sqlserver&perline=6" />
   </a>
 
   <h2>:wrench: Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,git,github,ubuntu&perline=6" />
+    <img src="https://skillicons.dev/icons?i=postman,git, docker, rider, visualstudio, github,ubuntu&perline=6" />
   </a>
 </p>
 <br>
