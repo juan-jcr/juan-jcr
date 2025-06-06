@@ -39,7 +39,7 @@
   <h2>:zap: Back End</h2>
    <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      <img src="https://skillicons.dev/icons?i=spring,mongodb,java,dotnet,cs,mysql" />
     </a>
   </p>
 
